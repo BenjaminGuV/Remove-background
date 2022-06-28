@@ -1,13 +1,14 @@
 import './App.css';
 import React from "react";
-import Canvas from './components/Canvas'
+import { AppBackgroundRemove } from "./components/AppBackgroundRemove";
 
 
-function App() {  
+
+function App() {
 
   return (
     <div>
-      <Canvas />
+      <AppBackgroundRemove />
     </div>
   );
 
