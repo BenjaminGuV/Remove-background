@@ -43,7 +43,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Screenshot
 
-![alt text](https://lh4.googleusercontent.com/bR1EkLjp6-zysDxuP_5fNz2FSbxYo-orDk6t6tZDhaDZuAr6iBfvyAEv9Dn3Fi401PnuIA7BIRhw0A=w1366-h625-rw "Captura uno")
+![alt text](/preview/01.PNG "Captura uno")
 
-![alt text](https://lh4.googleusercontent.com/CGElWrposGqD6TOhvYjcvamFzwiCRMB1BMVJp0rlq-w_jnTYZ0vyMwFWX7dM2rAb75KRXcVqotAtFg=w1366-h625-rw "Captura dos")
+![alt text](/preview/02.PNG "Captura dos")
 
